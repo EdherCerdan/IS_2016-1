@@ -1,34 +1,6 @@
-edher@edher-K56CB:~$ sudo -i
-[sudo] password for edher: 
-root@edher-K56CB:~# mkir IS_2016-1
-No se ha encontrado la orden «mkir», quizás quiso decir:
- La orden «mkid» del paquete «id-utils» (universe)
- La orden «mdir» del paquete «mtools» (main)
- La orden «mkdir» del paquete «coreutils» (main)
-mkir: no se encontró la orden
-root@edher-K56CB:~# exit
-logout
-edher@edher-K56CB:~$ mkir IS_2016-1
-No se ha encontrado la orden «mkir», quizás quiso decir:
- La orden «mkid» del paquete «id-utils» (universe)
- La orden «mdir» del paquete «mtools» (main)
- La orden «mkdir» del paquete «coreutils» (main)
-mkir: no se encontró la orden
 edher@edher-K56CB:~$ mkdir IS_2016-1
 edher@edher-K56CB:~$ cd IS_2016-1/
-edher@edher-K56CB:~/IS_2016-1$ notepad README.md
-El programa «notepad» no está instalado. Puede instalarlo escribiendo:
-sudo apt-get install wine1.6
-edher@edher-K56CB:~/IS_2016-1$ sudo get-install notepad
-sudo: get-install: orden no encontrada
-edher@edher-K56CB:~/IS_2016-1$ sudo get install notepad
-sudo: get: orden no encontrada
-edher@edher-K56CB:~/IS_2016-1$ sudo apt-get install notepad
-Leyendo lista de paquetes... Hecho
-Creando árbol de dependencias       
-Leyendo la información de estado... Hecho
-E: No se ha podido localizar el paquete notepad
-edher@edher-K56CB:~/IS_2016-1$ sudo gedit conf
+edher@edher-K56CB:~/IS_2016-1$ sudo gedit conf  // se crea con el nombre gif lo que se desea subir en el gedit
 
 (gedit:2081): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 edher@edher-K56CB:~/IS_2016-1$ git remote add origin https://github.com/EdherCerdan/IS_2016-1.git
