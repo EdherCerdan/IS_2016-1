@@ -9,3 +9,10 @@ hola eyvind
 Hola ,mundo
 Chepo eres un pollito para jugar pokemon 
 
++#include<studio.h>
+  int main ()
+  {
+
+
+		cout<<"Helloe wolrd";
+}
