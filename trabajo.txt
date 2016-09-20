@@ -30,6 +30,7 @@ mit=(inf+sup)/2;
 if (A[mit]==dato)
 {
 
+<<<<<<< HEAD
 
 
 
@@ -63,3 +64,12 @@ Resolving deltas: 100% (255/255), done.
 $ cd ticgit
 $ git remote
 origin
+=======
+}
+return 0;
+} 
+
+
+return " POKELOSER CHEPO CHAMAN  jaaaaaaaaaaaaaaaaaaajajajajajajjajajajajajjajajajajjajajajajajajajajajajjjj"
+
+
