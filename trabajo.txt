@@ -22,9 +22,20 @@ mit=(inf+sup)/2;
 if (A[mit]==dato)
 {
 
+<<<<<<< HEAD
 
 
 
 
 
 una borradaaa pa resumir
+=======
+}
+return 0;
+} 
+
+
+return " POKELOSER CHEPO CHAMAN  jaaaaaaaaaaaaaaaaaaajajajajajajjajajajajajjajajajajjajajajajajajajajajajjjj"
+
+eso leera el profe que haces ecribiendo eso
+>>>>>>> master
