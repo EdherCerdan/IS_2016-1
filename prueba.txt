@@ -14,7 +14,8 @@ Ya nunca mas usare github , llevare  USb  por el bien de la humanidad
 
 #include<studio.h>
   int main ()
-  {
+  {		
+		eddy <- Error fatal !
 
 
 		cout<<"Helloe wolrd";
