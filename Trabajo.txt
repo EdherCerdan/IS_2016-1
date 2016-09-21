@@ -1,0 +1,26 @@
+Empezando hacer el trabajo de I.Software
+Integrantes 
+Rodrigo Castro 
+Blas Cruz
+Eyvind Osco
+Edher Cerdan
+Codigo :
+#include <linux/sched.h>
+#include <linux/sched/sysctl.h>
+#include <linux/sched/rt.h>
+#include <linux/sched/deadline.h>
+#include <linux/mutex.h>
+#include <linux/spinlock.h>
+#include <linux/stop_machine.h>
+#include <linux/irq_work.h>
+#include <linux/tick.h>
+#include <linux/slab.h>
+
+#include "cpupri.h"
+#include "cpudeadline.h"
+#include "cpuacct.h"
+
+struct rq;
+struct cpuidle_state;
+
+
