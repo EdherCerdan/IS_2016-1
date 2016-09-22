@@ -1,1 +1,6 @@
 Emepzando a hacer el trabajo de I.Software 
+
+int main()
+{
+	cout<< "hola mundo"<<endl;
+}
