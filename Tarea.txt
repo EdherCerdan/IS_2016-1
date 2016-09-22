@@ -4,3 +4,10 @@ int main()
 {
 	cout<< "hola mundo"<<endl;
 }
+
+
+
+class Node{
+	Node *sig;
+	int dato;
+}
