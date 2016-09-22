@@ -8,7 +8,7 @@ Emepzando a hacer el trabajo de I.Software
 Emepzando hacer el trabajo denuevo
 
 
-
+Aumento segundo Edher
 
 Aumentando una linea de codigo 
 #include<stdio.h>
