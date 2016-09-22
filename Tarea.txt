@@ -32,3 +32,10 @@ getch;
 return 0;
 
 }
+
+
+
+class Node{
+	Node *sig;
+	int dato;
+}
